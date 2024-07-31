@@ -1,0 +1,7 @@
+../Core/Src/main.c:113:6:MotorGoWay	16	static
+../Core/Src/main.c:119:6:MotorBackWay	16	static
+../Core/Src/main.c:125:6:MotorStop	16	static
+../Core/Src/main.c:160:5:main	8	static
+../Core/Src/main.c:211:6:SystemClock_Config	72	static
+../Core/Src/main.c:258:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:275:6:Error_Handler	4	static,ignoring_inline_asm
